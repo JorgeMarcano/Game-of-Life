@@ -1,0 +1,3 @@
+﻿  game of life.cpp
+c:\users\fjmar_000\electronic stuff\html\game of life\game of life\game of life.cpp(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  game of life.vcxproj -> C:\Users\fjmar_000\Electronic stuff\html\game of life\game of life\Debug\game of life.exe
